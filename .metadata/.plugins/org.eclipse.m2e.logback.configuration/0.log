@@ -1,0 +1,11 @@
+2019-01-27 11:54:14,511 [Worker-0: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-27 11:54:45,744 [Worker-0: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nettyProj:nettyProj:0.0.1-SNAPSHOT @ C:\Users\aluca\Google 드라이브\java project\workspace-netty\nettyProj\pom.xml.
+2019-01-27 11:54:46,340 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-27 11:54:46,340 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluca\Google 드라이브\java project\workspace-netty\nettyProj\src\main\resources
+2019-01-27 11:54:46,343 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-27 11:54:46,343 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluca\Google 드라이브\java project\workspace-netty\nettyProj\src\test\resources
+2019-01-27 11:54:47,180 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: nettyProj:nettyProj:0.0.1-SNAPSHOT @ C:\Users\aluca\Google 드라이브\java project\workspace-netty\nettyProj\pom.xml.
+2019-01-27 11:54:48,078 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-27 11:54:48,079 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluca\Google 드라이브\java project\workspace-netty\nettyProj\src\main\resources
+2019-01-27 11:54:48,080 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-01-27 11:54:48,081 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aluca\Google 드라이브\java project\workspace-netty\nettyProj\src\test\resources
